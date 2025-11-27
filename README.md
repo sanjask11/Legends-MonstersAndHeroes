@@ -15,12 +15,12 @@
 
 ## How to Compile & Run the assignment
 - Clone the repository
-  - **`git clone https://github.com/sanjask11/Quoridor-OOSPD-A3.git`**  
+  - **`git clone https://github.com/sanjask11/Legends-MonstersAndHeroes`**  
 - Compile the code in Java version 8
-  - **`cd Quoridor-OOSPD-A3/src`**   
+  - **`cd Legends-MonstersAndHeroes/src`**   
   - **`javac -source 1.8 -target 1.8 *.java`**
 - Run the java file
-  - **`java App`**
+  - **`java Main`**
 
 
 ## Sample Input & Output
